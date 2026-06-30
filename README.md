@@ -1,40 +1,83 @@
-<h1 align="center">Hi 👋, I'm Humair Sarwar</h1>
+<div align="center">
 
-<h3 align="center">Front-end Developer | JavaScript Developer | Passionate About Building Modern Web Experiences</h3>
+# 👋 Hi, I'm Humair Sarwar
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub!;Front-end+Developer;JavaScript+Enthusiast;Learning+Something+New+Every+Day;Let's+Build+Amazing+Things+Together!"/>
-</p>
+### 🚀 Full Stack Developer
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Humair-Sarwar&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/Humair-Sarwar?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/github/stars/Humair-Sarwar?style=for-the-badge" />
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&random=false&width=700&lines=Full+Stack+Developer;React.js+%7C+Next.js+Developer;Laravel+%7C+PHP+Developer;Node.js+%7C+Express.js;Always+Learning+New+Technologies" />
+
+<br>
+
+![](https://komarev.com/ghpvc/?username=Humair-Sarwar&style=for-the-badge)
+
+</div>
 
 ---
 
 # 💫 About Me
 
-```javascript
-const humair = {
-    name: "Humair Sarwar",
-    pronouns: "he/him",
-    role: "Front-end Developer",
-    language: "JavaScript",
-    currentlyLearning: ["React.js", "Laravel", "REST APIs"],
-    askMeAbout: ["JavaScript", "HTML", "CSS", "Bootstrap", "Laravel"],
-    funFact: "I love transforming ideas into beautiful web applications 🚀"
-}
-```
+- 💻 Full Stack Developer
+- ⚛️ React.js & Next.js Enthusiast
+- 🚀 Laravel & Node.js Developer
+- 📱 Passionate about Responsive UI & Scalable Applications
+- 🌱 Always learning new technologies
+- 💬 Ask me about **React, Next.js, Laravel, PHP, Node.js, Express.js**
 
 ---
 
 # 🚀 Tech Stack
 
-<p align="center">
+### Frontend
 
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,php,laravel,mysql,git,github,vscode,figma&perline=7"/>
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=html" />
+<img src="https://skillicons.dev/icons?i=css" />
+<img src="https://skillicons.dev/icons?i=javascript" />
+<img src="https://skillicons.dev/icons?i=tailwind" />
+<img src="https://skillicons.dev/icons?i=bootstrap" />
+<img src="https://skillicons.dev/icons?i=react" />
+<img src="https://skillicons.dev/icons?i=nextjs" />
+
+</p>
+
+### UI Libraries
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white"/>
+
+</p>
+
+### Backend
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=php" />
+<img src="https://skillicons.dev/icons?i=laravel" />
+<img src="https://skillicons.dev/icons?i=nodejs" />
+<img src="https://skillicons.dev/icons?i=express" />
+
+</p>
+
+### Databases
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://skillicons.dev/icons?i=postgres" />
+<img src="https://skillicons.dev/icons?i=mongodb" />
+
+</p>
+
+### Tools
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=git" />
+<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=vscode" />
+<img src="https://skillicons.dev/icons?i=figma" />
 
 </p>
 
@@ -42,88 +85,72 @@ const humair = {
 
 # 📊 GitHub Stats
 
-<p align="center">
+<div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Humair-Sarwar&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Humair-Sarwar&show_icons=true&theme=github_dark&hide_border=true" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Humair-Sarwar&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Humair-Sarwar&layout=compact&theme=github_dark&hide_border=true" />
 
-</p>
+</div>
 
 ---
 
 # 🔥 GitHub Streak
 
-<p align="center">
+<div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Humair-Sarwar&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Humair-Sarwar&theme=github-dark&hide_border=true"/>
 
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Humair-Sarwar&theme=tokyonight&no-frame=true&row=2&column=4"/>
-
-</p>
+</div>
 
 ---
 
 # 📈 Contribution Graph
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Humair-Sarwar&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Humair-Sarwar&theme=github-dark&hide_border=true"/>
 
-</p>
+</div>
 
 ---
 
-# 🌟 Featured Skills
+# 🏆 GitHub Trophies
 
-<p align="center">
+<div align="center">
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap"/>
-<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css"/>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php"/>
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Humair-Sarwar&theme=algolia&no-frame=true&row=2&column=4"/>
 
-</p>
+</div>
 
 ---
 
 # 🌱 Currently Learning
 
-- ⚛️ React.js
-- 🚀 Advanced JavaScript
-- 🧩 Laravel Best Practices
-- 🔗 REST APIs
-- 📱 Responsive UI Development
+- ⚛️ Advanced React.js
+- 🚀 Next.js
+- 🏗️ Laravel
+- 🌐 Node.js & Express.js
+- ☁️ Cloud Deployment
+- 🐳 Docker
 
 ---
 
 # 📫 Connect With Me
 
-<p align="center">
+<p align="left">
 
 <a href="https://github.com/Humair-Sarwar">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<!-- Replace these links with your own -->
-
-<a href="#">
+<!-- Replace with your LinkedIn URL -->
+<a href="https://linkedin.com/in/YOUR_USERNAME">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="#">
+<!-- Replace with your email -->
+<a href="mailto:YOUR_EMAIL@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
@@ -131,14 +158,16 @@ const humair = {
 
 ---
 
-# 💻 Favorite Quote
+# 💡 Quote
 
-> **"First, solve the problem. Then, write the code."** – John Johnson
+> **"Code. Learn. Build. Repeat." 🚀**
 
 ---
 
-<p align="center">
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C4FF,100:6A5ACD&height=120&section=footer"/>
+### ⭐ Thanks for visiting my profile!
 
-</p>
+If you like my work, consider following me and checking out my repositories.
+
+</div>
