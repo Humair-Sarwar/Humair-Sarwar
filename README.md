@@ -145,12 +145,12 @@
 </a>
 
 <!-- Replace with your LinkedIn URL -->
-<a href="https://linkedin.com/in/YOUR_USERNAME">
+<a href="[https://linkedin.com/in/YOUR_USERNAME](https://www.linkedin.com/in/humair-sarwar/)">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
 <!-- Replace with your email -->
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:humairsarwar956@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
